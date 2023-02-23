@@ -13,6 +13,4 @@
 
 ## Purpose and Analysis
 
-## Results
-
 ## Summary
