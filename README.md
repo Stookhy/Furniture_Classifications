@@ -13,4 +13,5 @@
 
 ## Purpose and Analysis
 
-## Summary
+  The purpose of the test is to utilize an image classifier, to classify certain classes of images. Each label is fed into the model and will be recognized. With a sufficient dataset, an image classification model can match new images to its appropriate classes.
+
